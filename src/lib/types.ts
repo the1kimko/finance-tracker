@@ -25,7 +25,7 @@ export interface Budget {
     month: string // Format: 'YYYY-MM'
 }
 
-export interface category {
+export interface Category {
     id: string
     name: string
     color: string

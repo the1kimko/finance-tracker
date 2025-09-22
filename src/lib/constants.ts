@@ -1,4 +1,4 @@
-import type { Currency } from "./types";
+import type { Category, Currency } from "./types";
 
 export const
 SUPPORTED_CURRENCIES:
