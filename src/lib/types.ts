@@ -35,5 +35,5 @@ export interface Category {
 
 export interface UserSettings {
     defaultCurrency: string
-    displayCurrency: string[]
+    displayCurrencies: string[]
 }
